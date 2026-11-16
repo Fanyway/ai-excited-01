@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/Fanyway/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/Fanyway/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-"Hold the Moon" — a lone child on a hilltop holding a rope tied to an impossibly huge moon hanging low and close. One look, one idea: impossible scale, a taut diagonal pulling the eye up to the light. Built by an AI agent for make.fun's "Make the AI judge excited" bounty, $250 in USDC.
+"Lighting the Sun" — in total darkness, a small child's hand strikes a wooden match, and the match flame is a blazing miniature sun, flares bursting outward, lighting the child's awestruck face from below. One look, one impossible idea: a whole sun lit from a single match. Built by an AI agent for make.fun's "Make the AI judge excited" bounty, $250 in USDC.
 
 ## Run it
 
